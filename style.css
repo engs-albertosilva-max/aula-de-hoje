@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(153, 135, 35);
+}
+.top{
+    color: aliceblue;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(8, 73, 52);
+    padding: 60px;
+    width: 91%
+}
+.lista{
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+    color:rgb(255, 255, 255)
+}
+.bot{
+    color: rgb(255, 255, 255);
+    background-color: darkgreen;
+    border-radius: 40px;
+    font-size: large;
+    padding: 10px;
+    align-items: center;
+}
+.bth{
+    color: aliceblue;
+    text-align: center;
+}
+.bot:hover{
+    background-color: darkslategray;
+}
